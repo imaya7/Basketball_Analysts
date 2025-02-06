@@ -20,7 +20,8 @@ The project determines the following:
 
 # Python Files 
 - All_Basketball_Players - calculates the objectives for all players 
-- Top_100_Basketball - Calculates the top 100 basketball player objectives 
+- Top_100_Basketball - Calculates the top 100 basketball player objectives
+- Note * Top_100_Basketball_players includes average points scored per game 
 
 #  Short explanation All_Basketball_Players 
 This project is designed to analyze player statistics using numpy to complete the objectives for all players, and then print the result in the terminal. 
