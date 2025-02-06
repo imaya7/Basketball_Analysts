@@ -12,7 +12,11 @@ The project determines the following:
 
 # Libraries 
 - numpy (np)
-- os 
+- os
+
+# Data Files 
+NBA_Column_Names.txt
+NBA_Player_Stats.tsv
 
 # Python Files 
 All_Basketball_Players - calculates the objectives for all players 
