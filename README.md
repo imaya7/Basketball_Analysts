@@ -19,8 +19,8 @@ The project determines the following:
 - NBA_Player_Stats.tsv
 
 # Python Files 
-All_Basketball_Players - calculates the objectives for all players 
-Top_100_Basketball - Calculates the top 100 basketball player objectives 
+- All_Basketball_Players - calculates the objectives for all players 
+- Top_100_Basketball - Calculates the top 100 basketball player objectives 
 
 #  Short explanation All_Basketball_Players 
 This project is designed to analyze player statistics using numpy to complete the objectives for all players, and then print the result in the terminal. 
